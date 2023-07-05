@@ -4,7 +4,7 @@ import re
 input_file = "input.txt"
 
 # Regular expression pattern
-pattern = r"(/cady/sftp/cady/[^/\s]+)"
+pattern = r"(Input Pattern u want to extract)"
 
 # Set to store unique paths
 output = set()
